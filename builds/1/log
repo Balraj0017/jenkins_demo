@@ -1,0 +1,7 @@
+Started by user [8mha:////4BzTv1+UVLk82RBIw5fPqWBeu1M3cE32B7PEXvHKzYLlAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgYB/dLi1CL9pMScosQsAwNDcwBLF1A9xQAAAA==[0mBalraj sabharwal
+Running as SYSTEM
+Building remotely on [8mha:////4Mbq2YgMZgT9SzUQO3eHrGb3eOiVrzRSRHrulWJ8QOmyAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYB/eT83ILSktQi/eCcxLJUQwAO88z1xQAAAA==[0mSlave1 (Demo_slaves) in workspace /home/knoldus/Desktop/slave_1/workspace/backup_project
+[backup_project] $ /bin/sh -xe /tmp/jenkins17853488219473392610.sh
++ echo balraj
+balraj
+Finished: SUCCESS
